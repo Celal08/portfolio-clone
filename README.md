@@ -1,6 +1,6 @@
 #Porfolio-clone
 
-#This project showcases the design of the Easebank-clone using HTML , CSS and SCSS framework.
+#This project showcases the design of the Portfolio-clone using HTML , CSS and SCSS framework.
 
 #Udemig- Mehmet Can Seyhan Katkılarıyla
 
