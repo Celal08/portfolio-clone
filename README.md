@@ -12,8 +12,6 @@
 
 #CSS
 
-#SCSS
-
 #Bootstrap (BS)
 
 #Ekran görüntüsü
